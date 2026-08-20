@@ -883,16 +883,10 @@ The resulting tree has a maximum depth of **5** and contains **47 nodes**.
 
 The root node represents the first decision made by the model. Subsequent branches represent additional conditions used to divide passengers into increasingly homogeneous groups.
 
-For example, the tree may contain rules such as:
+For example, the tree may contain rule such as:
 
 ```text
 Sex_male <= 0.5
-```
-
-or:
-
-```text
-Pclass <= 2.5
 ```
 
 These rules are learned automatically from the training data rather than manually specified by the programmer.
