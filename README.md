@@ -877,6 +877,8 @@ Each node provides information that can be used to understand how the Decision T
 
 ## Decision Tree Visualization
 
+<img src="assets/Decision%20Tree.png" alt="decision tree" width="1200px"/>
+
 The resulting tree has a maximum depth of **5** and contains **47 nodes**.
 
 The root node represents the first decision made by the model. Subsequent branches represent additional conditions used to divide passengers into increasingly homogeneous groups.
