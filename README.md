@@ -1,4 +1,4 @@
-# Titanic Survival Prediction Using Decision Tree (CART) <img src="assets/logo.png" alt="header-logo" width="27px"/>
+# Titanic Passenger Survival Prediction Using Decision Tree (CART) <img src="assets/logo.png" alt="header-logo" width="27px"/>
 
 This project demonstrates **binary classification of Titanic passenger survival** using a **Decision Tree Classifier** with **Scikit-learn**.
 
